@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakir2001&label=Profile%20views&color=0e75b6&style=flat" alt="shakir2001" /> </p>
----
+
 - 🎓 Undergraduate @ **SLIIT**
 
 - 🌱 I’m currently learning **Java**
