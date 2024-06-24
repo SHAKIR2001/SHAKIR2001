@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakir2001&label=Profile%20views&color=0e75b6&style=flat" alt="shakir2001" /> </p>
 
-- 🔭 I’m currently working on **Java Project**
+- 🎓 Undergraduate @ **SLIIT**
 
 - 🌱 I’m currently learning **Java**
 
