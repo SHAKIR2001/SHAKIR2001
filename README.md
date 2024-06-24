@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW81MW02eHVkOWpoa2F0amVjN25lcHk3NDh6YnAwM2g3d3Vnb2lpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width = 200px></p>
 <h1 align="center">Hi 👋, I'm Shakir Cassim</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
