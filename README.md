@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW81MW02eHVkOWpoa2F0amVjN25lcHk3NDh6YnAwM2g3d3Vnb2lpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width = 200px></p>
 <h1 align="center">Hi 👋, I'm Shakir Cassim</h1>
-<h3 align="center">Passionate IT Student</h3>
+<h3 align="center">Passionate SE Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakir2001&label=Profile%20views&color=0e75b6&style=flat" alt="shakir2001" /> </p>
 
