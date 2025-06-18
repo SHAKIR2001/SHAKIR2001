@@ -10,7 +10,7 @@
   
 - 🎓 Undergraduate @ **SLIIT**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **shakircassim077@gmail.com**
 
