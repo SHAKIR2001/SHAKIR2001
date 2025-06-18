@@ -70,13 +70,7 @@
 
 ---
 
-### 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAKIR2001&theme=github-compact&area=true"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
