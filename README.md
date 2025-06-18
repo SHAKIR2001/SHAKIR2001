@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shakir Cassim</h1>
-<p align="center">🚀 MERN Stack Developer | 💡 Open Source Contributor | 🎓 SLIIT SE Undergraduate</p>
+<p align="center">🚀 MERN Stack Developer | 🎓 SLIIT SE Undergraduate</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakir2001&label=Profile%20views&color=0e75b6&style=flat" alt="shakir2001" />
@@ -17,13 +17,6 @@
 - 🌱 Currently learning & building with the **MERN Stack**
 - 📫 Reach me at **shakircassim077@gmail.com**
 - ⚡ Fun fact: **Call me SHA**
-
----
-
-### 🚀 Featured Projects
-
-- 💻 [SkillBridge LMS](https://github.com/SHAKIR2001/skillbridge-lms) – A MERN-based learning management system with student & educator roles.
-- 🧠 [QuizVerse](https://github.com/SHAKIR2001/quizverse) – React quiz app with AI integration & leaderboard.
 
 ---
 
