@@ -60,7 +60,13 @@
 <td width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAKIR2001&theme=dark&show_icons=true&count_private=true" />
   <br><br>
-<img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAKIR2001&theme=dark&hide_border=false" />
+  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SHAKIR2001&theme=dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SHAKIR2001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
 
 
 </td>
