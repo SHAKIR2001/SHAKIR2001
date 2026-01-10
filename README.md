@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Shakir Cassim</h1>
 <p align="center">🚀 MERN Stack Developer | 🎓 SLIIT SE Undergraduate</p>
 
-
-
 ---
 
 ### 🙋‍♂️ About Me
