@@ -46,7 +46,8 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="50" height="50"/>
 
   <!-- Render -->
-  <img src="https://seeklogo.com/images/R/render-logo-4A7C4E3D7E-seeklogo.com.png" alt="render" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" alt="render" width="50" height="50"/>
+
 
 
 
