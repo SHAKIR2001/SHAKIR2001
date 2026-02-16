@@ -46,13 +46,16 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="50" height="50"/>
 
   <!-- Render -->
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/R/render-logo-4A7C4E3D7E-seeklogo.com.png" alt="render" width="50" height="50"/>
+
+
 
   <!-- Jira -->
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
 
   <!-- Agile / Scrum -->
   <img src="https://www.svgrepo.com/show/353935/agile.svg" alt="agile-scrum" width="50" height="50"/>
+
 
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
