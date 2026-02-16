@@ -50,11 +50,11 @@
 
 
 
+
   <!-- Jira -->
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
 
-  <!-- Agile / Scrum -->
-  <img src="https://www.svgrepo.com/show/353935/agile.svg" alt="agile-scrum" width="50" height="50"/>
+ 
 
 
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="50" height="50"/>
